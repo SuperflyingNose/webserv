@@ -2,3 +2,6 @@
 
 req.txt
 venv
+src/__pycache__/
+
+src/Notes/
